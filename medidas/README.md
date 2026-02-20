@@ -2,7 +2,7 @@
 
 ### Box model
 
-![boxModel](/source/assets/boxModel.png)
+![boxModel](./assets/boxModel.png)
 
 - Imagina una caja que envuelve cada elemento HTML
   - Esto se refiere al modelo de caja
@@ -153,8 +153,8 @@ div {
 
 #### **Inline**
 
-- El elemento Inline se sitúa en línea  
-   - Sin interrumpir el flujo de otros elementos
+- El elemento Inline se sitúa en línea
+  - Sin interrumpir el flujo de otros elementos
 - Como se muestra en la ilustración -> cada elemento ocupa sólo el espacio que necesita
   - El elemento pasa a la siguiente fila si no hay espacio suficiente
 - `span`, `em`, `b` son ejemplos de elementos en línea
