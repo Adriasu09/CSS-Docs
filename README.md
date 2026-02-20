@@ -1,5 +1,3 @@
-- # 📋 [Guía](../../README.md)
-
 ## [CSS básico](./cssBasico/README.md)
 
 - ## [Box model](./medidas/README.md)
