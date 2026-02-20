@@ -1,3 +1,5 @@
+![](/assets/cssPersiana.gif)
+
 ## [CSS básico](./cssBasico/README.md)
 
 ## [Box model](./medidas/README.md)
