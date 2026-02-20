@@ -1,6 +1,6 @@
 ## [CSS básico](./cssBasico/README.md)
 
-- ## [Box model](./medidas/README.md)
+## [Box model](./medidas/README.md)
 
 ## [Flexbox](./flexbox/README.md)
 
