@@ -2,7 +2,7 @@
 
 ### Box model
 
-![boxModel](./assets/boxModel.png)
+![boxModel](/assets/boxModel.png)
 
 - Imagina una caja que envuelve cada elemento HTML
   - Esto se refiere al modelo de caja
