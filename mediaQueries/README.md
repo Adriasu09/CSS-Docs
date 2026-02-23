@@ -102,5 +102,3 @@ Entonces el tamaño en píxeles es `1.6rem * 10px = 16px`.
 - `rem` se utiliza habitualmente para los márgenes, los rellenos y, a veces, también para el tamaño de la fuente.
 - `em` es relativo al tamaño de fuente de su padre directo o más cercano.
 - se recomienda el uso de `em` para consultas de medios
-
-### 💻 [Ejercicios](./ejercicios/README.md)
