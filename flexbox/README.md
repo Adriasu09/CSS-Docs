@@ -165,9 +165,3 @@
 ```
 
 ![](/source/assets/8thOutput.png)
-
-EJERCICIO:
-
-[Spotify clone](https://github.com/GammaTechSchool/practise_spotify_clone)
-
-[Contactos Copleros](https://github.com/GammaTechSchool/Contactos-copleros-.git)
