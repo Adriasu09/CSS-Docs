@@ -74,7 +74,7 @@ div {
 }
 ```
 
-![](../../assets/grid_columns_1.png)
+![](/source/assets/grid_columns_1.png)
 
 ```css
 .grid-container {
@@ -83,7 +83,7 @@ div {
 }
 ```
 
-![](../../assets/grid_columns_2.png)
+![](/source/assets/grid_columns_2.png)
 
 #### Repetir columnas
 
@@ -94,7 +94,7 @@ div {
 }
 ```
 
-![](../../assets/grid_columns_1.png)
+![](/source/assets/grid_columns_1.png)
 
 ### Declarar filas
 
@@ -106,7 +106,7 @@ div {
 }
 ```
 
-![](../../assets/grid_rows_1.png)
+![](/source/assets/grid_rows_1.png)
 
 ### Espacio entre filas / columnas
 
@@ -119,12 +119,12 @@ div {
 }
 ```
 
-![](../../assets/grid_gap.png)
+![](/source/assets/grid_gap.png)
 
 ## Posicionar elementos dentro del contenedor grid
 
 Las columnas y filas empiezan en el borde de la tabla con índice 1:
-![](../../assets/grid_lines.png)
+![](/source/assets/grid_lines.png)
 
 ### Ocupar más de una columna / fila
 
@@ -135,7 +135,7 @@ Las columnas y filas empiezan en el borde de la tabla con índice 1:
 }
 ```
 
-![](../../assets/grid_start_end_1.png)
+![](/source/assets/grid_start_end_1.png)
 
 ```css
 #january {
@@ -146,7 +146,7 @@ Las columnas y filas empiezan en el borde de la tabla con índice 1:
 }
 ```
 
-![](../../assets/grid_start_end_2.png)
+![](/source/assets/grid_start_end_2.png)
 
 Puede abreviarse del siguiente modo:
 
@@ -157,14 +157,12 @@ Puede abreviarse del siguiente modo:
 }
 ```
 
-![](../../assets/grid_start_end_3.png)
+![](/source/assets/grid_start_end_3.png)
 
 ## Ejercicio
 
 1.- Usando lo que has parendido de `CSS Grid`, y con el `HTML` y `CSS` que te hemos proporcionado, intenta conseguir el siguiente layout:
 
-![](../../assets/grid_exercise.png)
-
-2.- [Gamma News](https://github.com/GammaTechSchool/Gamma_News.git)
+![](/source/assets/grid_exercise.png)
 
 3.- [Práctica: Grid Garden](https://cssgridgarden.com/#es)
